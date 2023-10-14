@@ -36,7 +36,7 @@ function App() {
         <button
           type="button"
           onClick={calculateAge}
-          className="bg-blue-600 text-white rounded-lg px-4 py-2 hover:bg-blue-700 focus:ring focus:ring-blue-400 focus:outline-none"
+          className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-white rounded-lg px-4 py-2 hover:bg-blue-700 focus:ring focus:ring-blue-400 focus:outline-none"
         >
           Calculate Age
         </button>
